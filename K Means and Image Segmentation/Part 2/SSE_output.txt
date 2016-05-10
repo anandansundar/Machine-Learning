@@ -1,0 +1,1 @@
+SSE for the given tweets is :35.08911978506978
