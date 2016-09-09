@@ -1,0 +1,6 @@
+Contribution:
+
+1) Performed k fold cross validation and split methods to train model.
+2) Calculate accuracies and kappa values for the classifiers. 
+3) Implemented Gradient Boosting, Ada Boosting, Decision Trees, SVM, Perceptron, Neural Network classifiers.
+4) Plotted the output values.
